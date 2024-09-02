@@ -1,2 +1,6 @@
-# hotel-cancellation-streamlit
-Alpha-Group
+# Hotel Cancellation Streamlit
+
+**Alpha-Group:**
+* Arief Luqman Hakiem
+* Samuel Semaya
+* Yusuf Sidharta
