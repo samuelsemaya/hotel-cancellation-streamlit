@@ -5,3 +5,4 @@ xgboost
 plotly
 pillow
 imbalanced-learn
+category_encoders
