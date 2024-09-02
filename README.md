@@ -18,5 +18,5 @@
 2. Run the app
 
    ```
-   $ streamlit run e-hotel_streamlit.py
+   $ streamlit run hotel_streamlit.py
    ```
