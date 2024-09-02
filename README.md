@@ -5,6 +5,8 @@
 * Samuel Semaya
 * Yusuf Sidharta
 
+<br>
+
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hotel-cancellation-alpha-group.streamlit.app/)
 
 ### How to run it on your own machine
