@@ -1,5 +1,7 @@
 # Hotel Cancellation Predictor Streamlit
 
+<p align="center"><img src="https://github.com/samuelsemaya/hotel-cancellation-streamlit/blob/main/hotel_image.png?raw=true" width=80% height=50%></p>
+
 **Alpha-Group:**
 * Arief Luqman Hakiem
 * Samuel Semaya
